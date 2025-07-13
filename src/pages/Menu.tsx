@@ -28,7 +28,7 @@ const Menu = () => {
       rating: 4.8,
       deliveryTime: '25-35 min',
       restaurant: 'Pizza Palace',
-      image: 'https://images.unsplash.com/photo-1604382355076-af4b0eb60143?w=400&h=300&fit=crop',
+      image: 'https://images.unsplash.com/photo-1604382355076-af4b0eb60143?w=400&h=300&fit=crop&auto=format',
       description: 'Classic tomato sauce with mozzarella cheese and fresh basil'
     },
     {
@@ -39,7 +39,7 @@ const Menu = () => {
       rating: 4.7,
       deliveryTime: '25-35 min',
       restaurant: 'Pizza Palace',
-      image: 'https://images.unsplash.com/photo-1565299624946-b28f40a0ca4b?w=400&h=300&fit=crop',
+      image: 'https://images.unsplash.com/photo-1513104890138-7c749659a591?w=400&h=300&fit=crop&auto=format',
       description: 'Spicy pepperoni with melted cheese on crispy crust'
     },
     {
@@ -50,7 +50,7 @@ const Menu = () => {
       rating: 4.6,
       deliveryTime: '20-30 min',
       restaurant: 'Burger House',
-      image: 'https://images.unsplash.com/photo-1568901346375-23c9450c58cd?w=400&h=300&fit=crop',
+      image: 'https://images.unsplash.com/photo-1568901346375-23c9450c58cd?w=400&h=300&fit=crop&auto=format',
       description: 'Juicy beef patty with lettuce, tomato, and special sauce'
     },
     {
@@ -61,7 +61,7 @@ const Menu = () => {
       rating: 4.5,
       deliveryTime: '20-30 min',
       restaurant: 'Burger House',
-      image: 'https://images.unsplash.com/photo-1586190848861-99aa4a171e90?w=400&h=300&fit=crop',
+      image: 'https://images.unsplash.com/photo-1586190848861-99aa4a171e90?w=400&h=300&fit=crop&auto=format',
       description: 'Classic burger topped with melted cheddar cheese'
     },
     {
@@ -72,7 +72,7 @@ const Menu = () => {
       rating: 4.7,
       deliveryTime: '30-40 min',
       restaurant: 'Sushi Master',
-      image: 'https://images.unsplash.com/photo-1579584425558-c3ff17d6a8ee?w=400&h=300&fit=crop',
+      image: 'https://images.unsplash.com/photo-1502741338009-cac2772e18bc?auto=format&fit=crop&w=400&q=80',
       description: 'Fresh avocado, cucumber, and crab meat roll'
     },
     {
@@ -83,7 +83,7 @@ const Menu = () => {
       rating: 4.8,
       deliveryTime: '30-40 min',
       restaurant: 'Sushi Master',
-      image: 'https://images.unsplash.com/photo-1579584425558-c3ff17d6a8ee?w=400&h=300&fit=crop',
+      image: 'https://images.unsplash.com/photo-1645120091968-5f24af8eaff5?q=80&w=2340&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D',
       description: 'Fresh salmon over seasoned rice'
     },
     {
@@ -94,7 +94,7 @@ const Menu = () => {
       rating: 4.5,
       deliveryTime: '25-35 min',
       restaurant: 'Italian Delight',
-      image: 'https://images.unsplash.com/photo-1621996346565-e3dbc353d2e5?w=400&h=300&fit=crop',
+      image: 'https://images.unsplash.com/photo-1607116667981-ff148a14e975?q=80&w=1287&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D',
       description: 'Creamy pasta with grilled chicken and herbs'
     },
     {
@@ -105,7 +105,7 @@ const Menu = () => {
       rating: 4.4,
       deliveryTime: '15-25 min',
       restaurant: 'Fresh Greens',
-      image: 'https://images.unsplash.com/photo-1546793665-c74683f339c1?w=400&h=300&fit=crop',
+      image: 'https://images.unsplash.com/photo-1540420773420-3366772f4999?w=400&h=300&fit=crop&auto=format',
       description: 'Fresh romaine lettuce with caesar dressing and croutons'
     },
     {
@@ -116,7 +116,7 @@ const Menu = () => {
       rating: 4.9,
       deliveryTime: '20-30 min',
       restaurant: 'Sweet Treats',
-      image: 'https://images.unsplash.com/photo-1578985545062-69928b1d9587?w=400&h=300&fit=crop',
+      image: 'https://images.unsplash.com/photo-1578985545062-69928b1d9587?w=400&h=300&fit=crop&auto=format',
       description: 'Rich chocolate cake with chocolate ganache'
     }
   ]

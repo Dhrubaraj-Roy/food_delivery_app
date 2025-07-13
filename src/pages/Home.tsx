@@ -1,3 +1,4 @@
+import React from 'react'
 import { useState } from 'react'
 import { Link } from 'react-router-dom'
 import { motion } from 'framer-motion'
@@ -21,7 +22,7 @@ const Home = () => {
       name: 'Margherita Pizza',
       price: 18.99,
       rating: 4.8,
-      image: 'https://images.unsplash.com/photo-1604382355076-af4b0eb60143?w=400&h=300&fit=crop',
+      image: 'https://images.unsplash.com/photo-1604382355076-af4b0eb60143?auto=format&fit=crop&w=400&q=80',
       deliveryTime: '25-35 min',
       restaurant: 'Pizza Palace'
     },
@@ -30,7 +31,7 @@ const Home = () => {
       name: 'Classic Burger',
       price: 12.99,
       rating: 4.6,
-      image: 'https://images.unsplash.com/photo-1568901346375-23c9450c58cd?w=400&h=300&fit=crop',
+      image: 'https://images.unsplash.com/photo-1568901346375-23c9450c58cd?auto=format&fit=crop&w=400&q=80',
       deliveryTime: '20-30 min',
       restaurant: 'Burger House'
     },
@@ -39,7 +40,7 @@ const Home = () => {
       name: 'California Roll',
       price: 15.99,
       rating: 4.7,
-      image: 'https://images.unsplash.com/photo-1579584425558-c3ff17d6a8ee?w=400&h=300&fit=crop',
+      image: 'https://images.unsplash.com/photo-1502741338009-cac2772e18bc?auto=format&fit=crop&w=400&q=80',
       deliveryTime: '30-40 min',
       restaurant: 'Sushi Master'
     },
@@ -48,9 +49,18 @@ const Home = () => {
       name: 'Chicken Pasta',
       price: 16.99,
       rating: 4.5,
-      image: 'https://images.unsplash.com/photo-1621996346565-e3dbc353d2e5?w=400&h=300&fit=crop',
+      image: 'https://images.unsplash.com/photo-1607116667981-ff148a14e975?q=80&w=1287&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D',
       deliveryTime: '25-35 min',
       restaurant: 'Italian Delight'
+    },
+    {
+      id: 5,
+      name: 'Salmon Nigiri',
+      price: 13.99,
+      rating: 4.8,
+      image: 'https://images.unsplash.com/photo-1645120091968-5f24af8eaff5?q=80&w=2340&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D',
+      deliveryTime: '30-40 min',
+      restaurant: 'Sushi Master'
     }
   ]
 
@@ -117,7 +127,7 @@ const Home = () => {
               className="relative"
             >
               <img
-                src="https://images.unsplash.com/photo-1504674900240-8947e31be2f6?w=600&h=400&fit=crop"
+                src="https://images.unsplash.com/photo-1517248135467-4c7edcad34c4?w=600&h=400&fit=crop"
                 alt="Delicious food"
                 className="rounded-2xl shadow-2xl"
               />

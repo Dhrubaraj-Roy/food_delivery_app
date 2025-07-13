@@ -11,7 +11,7 @@ const Cart = () => {
       name: 'Margherita Pizza',
       price: 18.99,
       quantity: 2,
-      image: 'https://images.unsplash.com/photo-1604382355076-af4b0eb60143?w=400&h=300&fit=crop',
+      image: 'https://images.unsplash.com/photo-1604382355076-af4b0eb60143?w=400&h=300&fit=crop&auto=format',
       restaurant: 'Pizza Palace'
     },
     {
@@ -19,7 +19,7 @@ const Cart = () => {
       name: 'Classic Burger',
       price: 12.99,
       quantity: 1,
-      image: 'https://images.unsplash.com/photo-1568901346375-23c9450c58cd?w=400&h=300&fit=crop',
+      image: 'https://images.unsplash.com/photo-1568901346375-23c9450c58cd?w=400&h=300&fit=crop&auto=format',
       restaurant: 'Burger House'
     },
     {
@@ -27,7 +27,7 @@ const Cart = () => {
       name: 'California Roll',
       price: 15.99,
       quantity: 1,
-      image: 'https://images.unsplash.com/photo-1579584425558-c3ff17d6a8ee?w=400&h=300&fit=crop',
+      image: 'https://images.unsplash.com/photo-1502741338009-cac2772e18bc?auto=format&fit=crop&w=400&q=80',
       restaurant: 'Sushi Master'
     }
   ])
